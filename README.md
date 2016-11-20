@@ -1,8 +1,8 @@
 # Poly-Graph-Plotter
 Graph plotter of Polynomial functions
-**language:** python3
 
 Requires **matplotlib** [download here](http://matplotlib.org/users/installing.html)
+
 ```
 For y= a0.x^0 + a1.x^1 + a2.x^2 + ..... + aN.x^N
 We input a polynomial function as:
